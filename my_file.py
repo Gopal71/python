@@ -1,1 +1,1 @@
-printg("hello v3")
+print"hello v3")
